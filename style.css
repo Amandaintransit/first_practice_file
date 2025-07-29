@@ -1,5 +1,6 @@
  body {
     background-color: bisque;
+    margin: 120px
 
  }
  
@@ -27,13 +28,19 @@ h2      {
         }
 .button {   
             color: red;
-            font-size: .75em;
+            font-size: 2em;
             margin-bottom: 25px;
+            margin-right: 120px;
             padding: 30px;
             background-color: orange;
             
         }
 .button:hover {
     color: white;
+
+}
+img {height: 175px; width: 175px;
+    margin-right: 105px;
+    
 
 }
