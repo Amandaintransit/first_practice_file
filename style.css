@@ -8,7 +8,7 @@
  h1
         {
             color:#adff2f;
-            font-size: 3rem;
+            font-size: 3em;
             text-align: center;
             padding: 50px;
             background-color: blueviolet;
@@ -32,8 +32,8 @@ h2      {
             font-size: 2em;
             margin-bottom: 25px;
             margin-right: 120px;
-            padding: 30px;
-            background-color: orange;
+            padding: 20px;
+            background-color: rgb(183, 0, 255);
             
         }
 .button:hover {
@@ -44,4 +44,17 @@ img {height: 175px; width: 175px;
     margin-right: 105px;
     
 
+}
+
+div {
+    color:deeppink;
+    margin-bottom: 25px;
+    padding: 5px;
+    background-color:rgb(0, 174, 255);
+    font-size: 1.5rem;
+}
+#Vote {
+    background-color: deeppink;
+    color: rgb(0, 174, 255);
+    padding: 1px;
 }
