@@ -1,1 +1,2 @@
 # first_practice_file
+I just wanted to practice HTML and CSS and I used the images I saw when I looked around my house - which were my pets.  I played around with the box model, added immages and then added a group of radio buttons.  The radio buttons don't actually do anything yet but I plan to use javacript to display text back to the user  such as "You voted for ${name}" using an "onclick" when the Vote button is pressed. 
